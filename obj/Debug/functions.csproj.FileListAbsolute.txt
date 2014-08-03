@@ -1,0 +1,5 @@
+c:\users\eric\documents\visual studio 2012\Projects\functions\functions\bin\Debug\functions.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\functions\functions\bin\Debug\functions.exe
+c:\users\eric\documents\visual studio 2012\Projects\functions\functions\bin\Debug\functions.pdb
+c:\users\eric\documents\visual studio 2012\Projects\functions\functions\obj\Debug\functions.exe
+c:\users\eric\documents\visual studio 2012\Projects\functions\functions\obj\Debug\functions.pdb
